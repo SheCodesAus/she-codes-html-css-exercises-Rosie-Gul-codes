@@ -1,0 +1,87 @@
+/* #fda103 6b469a */
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+/* * {
+    border: red solid 3px;
+} */
+
+html {
+    font-family: 'Arial', sans-serif;
+    background-color: #fff;
+}
+
+body {
+    margin: 060px;
+}
+
+
+header {
+    text-align: left;
+    background-color:white;
+    padding: 0px;
+}
+
+{
+    border: 1px solid grey;
+}
+
+
+h1 {
+    font-size: 1.5rem;
+    line-height: 1.0rem;;
+    color: red;
+}
+
+h2 {
+    font-size: 1.5rem;
+    line-height: 1.0rem;
+    color: black;
+}
+
+h3 {
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    color: black;
+}
+
+h4 {
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    color: grey;
+}
+
+nav {
+    margin:1.5px;
+    padding: 2px;
+    background-color: white;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    padding: 2px;
+}
+
+a:hover {
+    color: #fda103;
+    border-bottom: 2px solid #fda103;
+}
+
+
+div {
+    padding: 20px;
+}
+
+img {
+    width: 35%;
+    height: 60vh;
+    object-fit: cover;
+    object-position: top;
+}
+
+footer {
+    text-align: center;
+    background-color: #6b469a;
+    padding: 3px;
+    color: #fff;
+}
